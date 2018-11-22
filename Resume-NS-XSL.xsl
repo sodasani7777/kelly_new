@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!-- COPYRIGHT 2002 PolyGlot, Inc. -->
 
-<!-- this stylesheet decl is for Netscape 8+ -->
+<!-- this stylesheet decl is for Netscape 11+ -->
    <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
    <xsl:output method = "html" />
 
