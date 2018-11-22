@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!-- COPYRIGHT 2002 PolyGlot, Inc. -->
 
-<!-- this stylesheet decl is for IE 5.0 not IE 6.5+ -->
+<!-- this stylesheet decl is for IE 5.0 not IE 7.5+ -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/TR/WD-xsl" version="1.0">
 
     <xsl:template match="text()">
